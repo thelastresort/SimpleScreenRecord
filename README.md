@@ -8,3 +8,4 @@ notice:
 
 problem:
 1.quite slow, and the rate of frame isn't stable, so need optimizing.
+2.JavaCV has so many *.so library, and some of them aren't used in the project, which takes quite large space.
